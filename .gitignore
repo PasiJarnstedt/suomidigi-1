@@ -4,7 +4,6 @@ drush/contrib/
 files
 files_private
 node_modules
-public/robots.txt
 public/core
 public/modules/contrib
 public/themes/contrib
